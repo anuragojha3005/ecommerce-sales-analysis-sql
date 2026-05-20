@@ -2,24 +2,25 @@
 
 ## Project Overview
 
-This project focuses on analyzing e-commerce transactional data using SQL to generate actionable business insights related to revenue trends, customer behavior, product performance, and sales analysis.
+This project focuses on analyzing transactional e-commerce sales data using SQL to generate actionable business insights related to customer behavior, revenue trends, product performance, and sales analysis.
 
-The project demonstrates practical SQL and business intelligence skills by converting raw transactional data into analytical reports and KPI-driven insights.
+The objective of this project is to demonstrate practical SQL and business intelligence skills by converting raw transactional data into analytical reports and KPI-driven business insights.
 
 ---
 
 # Business Problem
 
-E-commerce businesses generate large amounts of transactional data daily. Organizations require analytical reporting to monitor:
+E-commerce companies generate large volumes of transactional data daily. Businesses require analytical reporting solutions to monitor:
 
 - Revenue performance
 - Customer purchasing behavior
 - Product sales trends
-- Regional sales performance
+- Category-wise sales performance
+- City-wise revenue analysis
 - Repeat customer behavior
-- High-performing product categories
+- High-value customer identification
 
-This project transforms raw sales data into actionable business insights using SQL queries and analytical reporting.
+This project transforms raw sales data into meaningful business insights using SQL queries and analytical reporting techniques.
 
 ---
 
@@ -38,66 +39,61 @@ This project transforms raw sales data into actionable business insights using S
 - Data Analysis
 - Business Intelligence
 - KPI Reporting
-- Customer Segmentation
 - Revenue Analysis
+- Customer Segmentation
 - Data Cleaning
 - Analytical Reporting
 - Data Visualization
+- Reporting Automation
 
 ---
 
 # Dataset Information
 
-The dataset contains transactional e-commerce sales data including:
+The dataset contains transactional e-commerce sales records including:
 
+- Order ID
 - Customer Information
 - Product Details
-- Sales Transactions
-- Order Details
-- Revenue Metrics
-- Product Categories
+- Category Information
+- Quantity Sold
+- Revenue Data
+- Payment Methods
+- City & State Information
+- Order Dates
+
+---
+
+# Dataset Columns
+
+| Column Name | Description |
+|---|---|
+| order_id | Unique order identifier |
+| customer_id | Unique customer identifier |
+| customer_name | Customer name |
+| city | Customer city |
+| state | Customer state |
+| category | Product category |
+| product_name | Product purchased |
+| quantity | Quantity sold |
+| price | Product price |
+| total_amount | Total order value |
+| payment_method | Payment type |
+| order_date | Order date |
 
 ---
 
 # Project Workflow
 
-1. Database Creation
-2. Table Creation
-3. Data Import
-4. Data Cleaning
-5. SQL Query Development
-6. Revenue Analysis
-7. Customer Segmentation
-8. Business Insight Generation
-
----
-
-# Database Schema
-
-## Customers Table
-- customer_id
-- customer_name
-- city
-- state
-
-## Products Table
-- product_id
-- product_name
-- category
-- price
-
-## Orders Table
-- order_id
-- customer_id
-- order_date
-- total_amount
-
-## Order Items Table
-- order_item_id
-- order_id
-- product_id
-- quantity
-- subtotal
+1. Data Collection
+2. Data Cleaning
+3. Database Creation
+4. SQL Query Development
+5. Revenue Analysis
+6. Customer Segmentation
+7. Sales Performance Analysis
+8. KPI Reporting
+9. Business Insight Generation
 
 ---
 
@@ -122,55 +118,47 @@ The dataset contains transactional e-commerce sales data including:
 
 ---
 
+# Key Business Questions Solved
+
+- What is the total revenue generated?
+- Which products generate maximum sales?
+- Which customers contribute the highest revenue?
+- Which cities perform best in sales?
+- What are the monthly sales trends?
+- Which customer segments generate higher revenue?
+- Who are the repeat customers?
+- Which payment methods are most used?
+
+---
+
 # Key KPIs
 
 - Total Revenue
+- Average Order Value
+- Total Orders
 - Top-Selling Products
+- Repeat Customers
 - Customer Lifetime Value
-- Repeat Customer Count
 - Monthly Sales Trends
 - Category-wise Revenue
-- Average Order Value
+- City-wise Revenue
 
 ---
 
-# Key Insights
+# SQL Analysis Included
 
-- Electronics products generated the highest revenue.
-- Repeat customers contributed significantly to total sales.
-- Certain cities consistently outperformed others in sales volume.
-- Premium products generated higher average order values.
-- Monthly sales trends highlighted seasonal demand patterns.
+The project includes SQL queries for:
 
----
-
-# Business Recommendations
-
-- Focus marketing efforts on high-performing product categories.
-- Implement loyalty programs for repeat customers.
-- Increase inventory for top-selling products.
-- Improve customer retention strategies for low-engagement users.
-
----
-
-# Key Achievements
-
-- Analyzed transactional sales datasets using SQL
-- Developed analytical business queries using JOINs and CTEs
-- Performed customer segmentation analysis
-- Generated KPI-driven business insights
-- Built optimized SQL reporting workflows
-
----
-
-# SQL Query Files
-
-The project includes:
-- Revenue Analysis Queries
-- Product Performance Queries
-- Customer Segmentation Queries
-- KPI Queries
-- Advanced SQL Queries
+- Revenue Analysis
+- Customer Analysis
+- Product Performance Analysis
+- Customer Segmentation
+- City-wise Sales Analysis
+- Category-wise Analysis
+- Payment Method Analysis
+- Monthly Sales Trends
+- CTE Queries
+- Window Function Queries
 
 ---
 
@@ -179,13 +167,31 @@ The project includes:
 ```sql
 SELECT 
     category,
-    SUM(subtotal) AS total_revenue
-FROM order_items oi
-JOIN products p
-ON oi.product_id = p.product_id
+    SUM(total_amount) AS category_revenue
+FROM ecommerce_sales
 GROUP BY category
-ORDER BY total_revenue DESC;
+ORDER BY category_revenue DESC;
 ```
+
+---
+
+# Key Insights
+
+- Electronics category generated the highest revenue.
+- Repeat customers contributed significantly to total sales.
+- Premium products generated higher average order values.
+- Certain cities consistently outperformed others in sales performance.
+- Monthly sales analysis highlighted seasonal demand trends.
+
+---
+
+# Business Recommendations
+
+- Increase marketing efforts for high-performing product categories.
+- Focus retention strategies on repeat customers.
+- Improve inventory planning for top-selling products.
+- Optimize business strategies in high-revenue cities.
+- Monitor monthly sales trends for demand forecasting.
 
 ---
 
@@ -196,29 +202,44 @@ ecommerce-sales-analysis-sql/
 │
 ├── README.md
 ├── dataset/
+│   └── ecommerce_sales_dataset.csv
+│
 ├── sql_queries/
+│   └── ecommerce_analysis_queries.sql
 ```
+
+---
+
+# Key Achievements
+
+- Analyzed transactional sales data using SQL
+- Developed KPI-driven analytical reports
+- Performed customer segmentation analysis
+- Utilized CTEs and window functions for advanced SQL analysis
+- Generated business insights supporting data-driven decision-making
+- Built optimized SQL reporting workflows
 
 ---
 
 # Future Improvements
 
 - Power BI Dashboard Integration
+- Real-Time KPI Monitoring
 - Predictive Sales Forecasting
 - Customer Churn Analysis
-- Real-Time KPI Reporting
+- Automated Reporting Solutions
 
 ---
 
 # Conclusion
 
-This project demonstrates practical SQL and business intelligence skills through analytical reporting, customer segmentation, revenue analysis, and business insight generation.
+This project demonstrates practical SQL and business intelligence skills through revenue analysis, customer segmentation, KPI reporting, and analytical business reporting using transactional e-commerce sales data.
 
 ---
 
 # Author
 
-Anurag Ojha
+## Anurag Ojha
 
 - LinkedIn: linkedin.com/in/anurag3005
 - GitHub: github.com/anuragojha3005
