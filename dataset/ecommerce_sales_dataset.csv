@@ -1,0 +1,601 @@
+order_id,customer_id,customer_name,city,state,category,product_name,quantity,price,total_amount,payment_method,order_date
+1001,97,Pooja Meena,Pune,Rajasthan,Electronics,Headphones,5,5084,25420,UPI,2025-01-10
+1002,7,Amit Singh,Jaipur,Rajasthan,Fashion,Shoes,1,49386,49386,Debit Card,2025-03-06
+1003,34,Rohit Yadav,Delhi,Rajasthan,Electronics,Headphones,5,25399,126995,Debit Card,2025-04-18
+1004,65,Anjali Verma,Delhi,Karnataka,Home,Chair,2,12175,24350,UPI,2025-04-28
+1005,42,Karan Mehta,Delhi,Gujarat,Home,Mixer,3,47548,142644,Credit Card,2025-06-28
+1006,54,Neha Kapoor,Mumbai,Rajasthan,Electronics,Smartphone,5,28974,144870,UPI,2025-01-20
+1007,58,Neha Kapoor,Mumbai,Delhi,Electronics,Smartphone,3,17595,52785,Cash,2025-05-12
+1008,42,Amit Singh,Ahmedabad,Gujarat,Fashion,T-Shirt,4,47794,191176,Cash,2025-04-29
+1009,60,Sneha Gupta,Jaipur,Delhi,Fashion,Jacket,2,37582,75164,Cash,2025-02-13
+1010,81,Pooja Meena,Mumbai,Gujarat,Fashion,Shoes,1,40930,40930,UPI,2025-03-16
+1011,34,Rohit Yadav,Ahmedabad,Gujarat,Home,Chair,1,38855,38855,UPI,2025-06-07
+1012,14,Priya Jain,Ahmedabad,Gujarat,Electronics,Laptop,4,40226,160904,UPI,2025-02-16
+1013,42,Sneha Gupta,Jaipur,Karnataka,Accessories,Bag,4,29595,118380,Cash,2025-04-07
+1014,64,Vikas Singh,Delhi,Maharashtra,Fashion,Jacket,3,30894,92682,Cash,2025-04-05
+1015,7,Vikas Singh,Delhi,Rajasthan,Home,Mixer,4,36920,147680,UPI,2025-05-25
+1016,2,Rohit Yadav,Jaipur,Karnataka,Accessories,Sunglasses,1,10101,10101,Debit Card,2025-01-08
+1017,31,Sneha Gupta,Delhi,Delhi,Accessories,Bag,2,8103,16206,Cash,2025-04-22
+1018,37,Amit Singh,Bangalore,Gujarat,Accessories,Bag,1,5364,5364,Credit Card,2025-04-19
+1019,55,Priya Jain,Delhi,Rajasthan,Fashion,T-Shirt,1,12772,12772,Credit Card,2025-05-16
+1020,63,Rohit Yadav,Delhi,Karnataka,Home,Table,5,39285,196425,Cash,2025-03-19
+1021,50,Vikas Singh,Mumbai,Maharashtra,Fashion,Shoes,4,19035,76140,Cash,2025-05-17
+1022,59,Neha Kapoor,Mumbai,Rajasthan,Fashion,Jacket,5,45826,229130,UPI,2025-05-27
+1023,58,Pooja Meena,Pune,Gujarat,Electronics,Smartphone,5,27141,135705,Cash,2025-01-29
+1024,47,Karan Mehta,Mumbai,Gujarat,Fashion,T-Shirt,4,22790,91160,Cash,2025-05-02
+1025,85,Rahul Sharma,Delhi,Rajasthan,Accessories,Bag,1,38882,38882,Debit Card,2025-05-25
+1026,3,Neha Kapoor,Mumbai,Maharashtra,Home,Mixer,1,44463,44463,Credit Card,2025-03-15
+1027,88,Vikas Singh,Bangalore,Delhi,Fashion,T-Shirt,5,11321,56605,Credit Card,2025-06-13
+1028,77,Priya Jain,Bangalore,Rajasthan,Electronics,Headphones,4,43021,172084,UPI,2025-03-06
+1029,85,Priya Jain,Delhi,Delhi,Accessories,Sunglasses,5,24655,123275,Cash,2025-01-25
+1030,10,Amit Singh,Delhi,Rajasthan,Electronics,Laptop,4,33398,133592,UPI,2025-04-09
+1031,16,Pooja Meena,Ahmedabad,Maharashtra,Home,Mixer,3,2986,8958,Cash,2025-03-07
+1032,88,Amit Singh,Mumbai,Gujarat,Accessories,Watch,5,6537,32685,Credit Card,2025-01-30
+1033,61,Amit Singh,Pune,Gujarat,Fashion,T-Shirt,4,22434,89736,Debit Card,2025-06-01
+1034,74,Neha Kapoor,Ahmedabad,Karnataka,Accessories,Bag,2,49826,99652,Debit Card,2025-04-05
+1035,10,Vikas Singh,Jaipur,Delhi,Accessories,Watch,2,42233,84466,Debit Card,2025-05-13
+1036,92,Amit Singh,Pune,Karnataka,Accessories,Bag,2,857,1714,Credit Card,2025-05-26
+1037,14,Pooja Meena,Jaipur,Delhi,Electronics,Headphones,4,43482,173928,Credit Card,2025-03-31
+1038,61,Sneha Gupta,Bangalore,Karnataka,Home,Mixer,5,43732,218660,UPI,2025-04-28
+1039,70,Neha Kapoor,Delhi,Maharashtra,Fashion,Jacket,3,23865,71595,Cash,2025-06-01
+1040,19,Vikas Singh,Delhi,Maharashtra,Accessories,Bag,1,35452,35452,Cash,2025-04-07
+1041,13,Rohit Yadav,Jaipur,Rajasthan,Accessories,Bag,4,47904,191616,Credit Card,2025-02-01
+1042,67,Anjali Verma,Bangalore,Delhi,Home,Chair,2,9663,19326,Credit Card,2025-01-16
+1043,51,Anjali Verma,Bangalore,Rajasthan,Fashion,Jacket,2,17710,35420,UPI,2025-01-31
+1044,78,Anjali Verma,Ahmedabad,Karnataka,Accessories,Bag,2,48607,97214,Credit Card,2025-06-09
+1045,87,Anjali Verma,Delhi,Delhi,Electronics,Laptop,3,22505,67515,Cash,2025-01-21
+1046,86,Amit Singh,Ahmedabad,Rajasthan,Home,Chair,4,33795,135180,Credit Card,2025-01-29
+1047,41,Rahul Sharma,Bangalore,Maharashtra,Accessories,Bag,1,3555,3555,UPI,2025-03-01
+1048,42,Neha Kapoor,Ahmedabad,Rajasthan,Fashion,T-Shirt,2,33602,67204,Credit Card,2025-01-21
+1049,82,Neha Kapoor,Pune,Delhi,Home,Chair,1,3498,3498,UPI,2025-02-23
+1050,26,Rohit Yadav,Delhi,Delhi,Home,Mixer,5,48052,240260,Credit Card,2025-04-12
+1051,70,Pooja Meena,Bangalore,Maharashtra,Home,Chair,2,47051,94102,Cash,2025-02-07
+1052,75,Rohit Yadav,Delhi,Maharashtra,Fashion,Jacket,5,36918,184590,Debit Card,2025-03-09
+1053,71,Sneha Gupta,Ahmedabad,Delhi,Electronics,Laptop,4,35343,141372,Credit Card,2025-06-13
+1054,73,Priya Jain,Delhi,Karnataka,Electronics,Smartphone,3,7200,21600,Cash,2025-03-03
+1055,55,Karan Mehta,Ahmedabad,Maharashtra,Electronics,Laptop,5,25411,127055,Credit Card,2025-05-31
+1056,27,Rahul Sharma,Pune,Karnataka,Fashion,Jacket,1,41145,41145,UPI,2025-05-29
+1057,40,Anjali Verma,Delhi,Gujarat,Fashion,Jacket,4,44544,178176,UPI,2025-03-17
+1058,51,Anjali Verma,Bangalore,Gujarat,Electronics,Headphones,4,13532,54128,Cash,2025-05-31
+1059,47,Rahul Sharma,Bangalore,Karnataka,Electronics,Smartphone,5,43188,215940,Debit Card,2025-03-06
+1060,13,Rahul Sharma,Pune,Rajasthan,Electronics,Headphones,3,15757,47271,Debit Card,2025-03-10
+1061,70,Rohit Yadav,Jaipur,Karnataka,Accessories,Watch,1,15395,15395,Cash,2025-03-15
+1062,100,Sneha Gupta,Delhi,Rajasthan,Accessories,Watch,4,6532,26128,UPI,2025-01-26
+1063,69,Priya Jain,Pune,Delhi,Electronics,Headphones,1,20845,20845,Debit Card,2025-03-26
+1064,73,Anjali Verma,Pune,Gujarat,Fashion,Shoes,1,19903,19903,Credit Card,2025-06-27
+1065,16,Rahul Sharma,Delhi,Delhi,Electronics,Headphones,2,32089,64178,Cash,2025-05-04
+1066,53,Sneha Gupta,Ahmedabad,Delhi,Home,Mixer,4,16049,64196,Cash,2025-04-11
+1067,9,Sneha Gupta,Ahmedabad,Rajasthan,Electronics,Headphones,4,23328,93312,Credit Card,2025-01-12
+1068,25,Karan Mehta,Bangalore,Rajasthan,Accessories,Sunglasses,2,27356,54712,Debit Card,2025-05-30
+1069,82,Rahul Sharma,Ahmedabad,Delhi,Electronics,Headphones,3,47853,143559,Cash,2025-01-31
+1070,67,Rohit Yadav,Jaipur,Maharashtra,Home,Chair,4,18599,74396,Credit Card,2025-02-23
+1071,36,Pooja Meena,Bangalore,Rajasthan,Accessories,Sunglasses,1,5548,5548,UPI,2025-06-27
+1072,41,Pooja Meena,Jaipur,Delhi,Accessories,Bag,1,16325,16325,Debit Card,2025-06-27
+1073,50,Amit Singh,Ahmedabad,Gujarat,Home,Chair,1,42353,42353,Cash,2025-05-22
+1074,94,Sneha Gupta,Bangalore,Gujarat,Electronics,Headphones,3,14598,43794,Debit Card,2025-06-27
+1075,89,Sneha Gupta,Delhi,Gujarat,Electronics,Laptop,2,10623,21246,Cash,2025-02-12
+1076,3,Amit Singh,Jaipur,Rajasthan,Fashion,Jacket,3,45738,137214,Debit Card,2025-03-21
+1077,49,Rahul Sharma,Jaipur,Rajasthan,Accessories,Sunglasses,3,14521,43563,UPI,2025-01-09
+1078,99,Rahul Sharma,Delhi,Maharashtra,Fashion,Shoes,4,48049,192196,Debit Card,2025-05-17
+1079,78,Rohit Yadav,Delhi,Karnataka,Fashion,T-Shirt,5,10459,52295,Debit Card,2025-03-11
+1080,77,Pooja Meena,Pune,Karnataka,Accessories,Bag,3,6527,19581,Cash,2025-01-06
+1081,40,Neha Kapoor,Delhi,Delhi,Home,Chair,3,34926,104778,Credit Card,2025-01-15
+1082,36,Rohit Yadav,Bangalore,Karnataka,Electronics,Headphones,1,23853,23853,Cash,2025-01-27
+1083,46,Rahul Sharma,Mumbai,Rajasthan,Electronics,Smartphone,4,878,3512,Credit Card,2025-03-13
+1084,13,Rahul Sharma,Jaipur,Maharashtra,Accessories,Sunglasses,3,27232,81696,UPI,2025-05-08
+1085,3,Priya Jain,Ahmedabad,Delhi,Fashion,T-Shirt,4,46563,186252,Cash,2025-05-11
+1086,83,Anjali Verma,Delhi,Karnataka,Accessories,Sunglasses,3,27130,81390,Cash,2025-06-05
+1087,63,Sneha Gupta,Pune,Delhi,Fashion,Jacket,1,17961,17961,Cash,2025-06-11
+1088,60,Pooja Meena,Pune,Karnataka,Accessories,Watch,5,9263,46315,Credit Card,2025-02-02
+1089,22,Vikas Singh,Mumbai,Karnataka,Home,Table,3,46313,138939,UPI,2025-04-23
+1090,96,Vikas Singh,Delhi,Delhi,Accessories,Bag,3,15201,45603,UPI,2025-03-20
+1091,48,Sneha Gupta,Delhi,Rajasthan,Accessories,Watch,4,7315,29260,Cash,2025-03-25
+1092,30,Pooja Meena,Jaipur,Rajasthan,Accessories,Sunglasses,4,12334,49336,UPI,2025-04-06
+1093,46,Pooja Meena,Bangalore,Rajasthan,Accessories,Sunglasses,5,26971,134855,UPI,2025-02-20
+1094,66,Sneha Gupta,Bangalore,Gujarat,Home,Mixer,4,6065,24260,UPI,2025-02-07
+1095,28,Anjali Verma,Pune,Maharashtra,Electronics,Laptop,5,4151,20755,Credit Card,2025-05-20
+1096,78,Amit Singh,Mumbai,Gujarat,Accessories,Sunglasses,2,5955,11910,UPI,2025-03-20
+1097,12,Anjali Verma,Jaipur,Delhi,Home,Chair,3,10144,30432,Debit Card,2025-06-22
+1098,12,Karan Mehta,Jaipur,Maharashtra,Home,Chair,1,47545,47545,Debit Card,2025-01-28
+1099,34,Rahul Sharma,Delhi,Rajasthan,Electronics,Laptop,3,46389,139167,Debit Card,2025-03-16
+1100,37,Karan Mehta,Ahmedabad,Karnataka,Electronics,Laptop,3,24300,72900,Cash,2025-02-05
+1101,41,Amit Singh,Delhi,Maharashtra,Home,Table,1,38862,38862,UPI,2025-05-06
+1102,50,Neha Kapoor,Jaipur,Gujarat,Electronics,Smartphone,3,16134,48402,UPI,2025-04-23
+1103,55,Vikas Singh,Mumbai,Maharashtra,Electronics,Smartphone,1,33978,33978,Debit Card,2025-02-28
+1104,57,Vikas Singh,Ahmedabad,Karnataka,Accessories,Bag,1,12099,12099,UPI,2025-03-12
+1105,18,Sneha Gupta,Bangalore,Delhi,Electronics,Laptop,4,22112,88448,Cash,2025-05-17
+1106,69,Rohit Yadav,Delhi,Gujarat,Accessories,Sunglasses,1,24298,24298,Debit Card,2025-03-12
+1107,4,Vikas Singh,Ahmedabad,Karnataka,Home,Table,3,44220,132660,Debit Card,2025-06-08
+1108,52,Sneha Gupta,Jaipur,Rajasthan,Fashion,T-Shirt,2,47653,95306,Cash,2025-05-17
+1109,98,Neha Kapoor,Bangalore,Karnataka,Home,Table,3,32097,96291,Credit Card,2025-02-07
+1110,62,Anjali Verma,Delhi,Maharashtra,Accessories,Bag,2,21553,43106,Debit Card,2025-04-11
+1111,7,Neha Kapoor,Pune,Rajasthan,Fashion,Shoes,1,21184,21184,UPI,2025-01-23
+1112,93,Anjali Verma,Bangalore,Rajasthan,Fashion,Shoes,5,29636,148180,Cash,2025-04-19
+1113,51,Pooja Meena,Delhi,Maharashtra,Fashion,T-Shirt,3,32778,98334,Credit Card,2025-06-26
+1114,30,Amit Singh,Jaipur,Delhi,Electronics,Laptop,2,6321,12642,Debit Card,2025-05-22
+1115,100,Karan Mehta,Delhi,Rajasthan,Home,Table,1,14602,14602,Debit Card,2025-05-10
+1116,2,Pooja Meena,Delhi,Delhi,Electronics,Headphones,3,11233,33699,Debit Card,2025-05-01
+1117,96,Anjali Verma,Jaipur,Gujarat,Home,Mixer,2,28371,56742,Credit Card,2025-01-03
+1118,87,Neha Kapoor,Delhi,Maharashtra,Home,Mixer,1,4341,4341,Cash,2025-03-28
+1119,9,Karan Mehta,Pune,Rajasthan,Accessories,Bag,5,42309,211545,Cash,2025-05-02
+1120,40,Neha Kapoor,Pune,Karnataka,Accessories,Watch,2,6475,12950,Cash,2025-04-09
+1121,41,Priya Jain,Delhi,Karnataka,Fashion,Shoes,1,9856,9856,UPI,2025-06-15
+1122,14,Amit Singh,Bangalore,Delhi,Fashion,Shoes,1,19928,19928,Credit Card,2025-06-24
+1123,24,Anjali Verma,Mumbai,Rajasthan,Accessories,Bag,4,34966,139864,UPI,2025-05-13
+1124,48,Pooja Meena,Bangalore,Rajasthan,Accessories,Watch,1,27938,27938,Credit Card,2025-04-27
+1125,7,Priya Jain,Bangalore,Karnataka,Accessories,Bag,5,36855,184275,Credit Card,2025-03-26
+1126,60,Vikas Singh,Mumbai,Rajasthan,Fashion,T-Shirt,5,43679,218395,Credit Card,2025-06-25
+1127,74,Priya Jain,Delhi,Delhi,Accessories,Sunglasses,1,21562,21562,Cash,2025-02-02
+1128,51,Anjali Verma,Jaipur,Delhi,Fashion,T-Shirt,3,4647,13941,Credit Card,2025-03-19
+1129,79,Anjali Verma,Mumbai,Rajasthan,Electronics,Smartphone,3,23973,71919,Credit Card,2025-06-12
+1130,100,Pooja Meena,Jaipur,Gujarat,Home,Chair,4,21258,85032,UPI,2025-05-31
+1131,43,Karan Mehta,Bangalore,Maharashtra,Accessories,Watch,3,27285,81855,Debit Card,2025-04-11
+1132,21,Priya Jain,Pune,Delhi,Electronics,Laptop,4,33399,133596,Debit Card,2025-01-28
+1133,33,Amit Singh,Pune,Karnataka,Fashion,Jacket,3,27599,82797,Credit Card,2025-06-13
+1134,95,Amit Singh,Jaipur,Delhi,Fashion,T-Shirt,3,28937,86811,Credit Card,2025-01-02
+1135,13,Amit Singh,Mumbai,Karnataka,Fashion,Jacket,4,31454,125816,UPI,2025-06-18
+1136,53,Anjali Verma,Delhi,Rajasthan,Fashion,Shoes,4,31022,124088,Credit Card,2025-02-09
+1137,86,Vikas Singh,Mumbai,Delhi,Accessories,Sunglasses,1,3557,3557,Cash,2025-05-18
+1138,70,Karan Mehta,Mumbai,Rajasthan,Electronics,Laptop,3,38157,114471,Debit Card,2025-06-24
+1139,89,Rahul Sharma,Delhi,Rajasthan,Accessories,Sunglasses,4,38118,152472,Debit Card,2025-03-31
+1140,87,Vikas Singh,Ahmedabad,Karnataka,Home,Mixer,2,3116,6232,UPI,2025-01-31
+1141,65,Anjali Verma,Delhi,Rajasthan,Accessories,Bag,1,48440,48440,UPI,2025-05-10
+1142,29,Pooja Meena,Pune,Maharashtra,Electronics,Laptop,3,41219,123657,Cash,2025-05-23
+1143,33,Anjali Verma,Mumbai,Rajasthan,Accessories,Watch,4,41258,165032,UPI,2025-06-04
+1144,72,Rohit Yadav,Jaipur,Karnataka,Electronics,Smartphone,2,26774,53548,Cash,2025-01-08
+1145,82,Sneha Gupta,Bangalore,Rajasthan,Fashion,T-Shirt,3,21426,64278,Credit Card,2025-02-04
+1146,14,Pooja Meena,Mumbai,Gujarat,Accessories,Sunglasses,3,14419,43257,UPI,2025-03-19
+1147,26,Neha Kapoor,Pune,Delhi,Fashion,Shoes,3,3510,10530,Debit Card,2025-01-07
+1148,13,Karan Mehta,Delhi,Gujarat,Fashion,Jacket,4,30804,123216,Credit Card,2025-06-09
+1149,69,Anjali Verma,Ahmedabad,Karnataka,Home,Mixer,2,7811,15622,UPI,2025-06-20
+1150,89,Amit Singh,Jaipur,Gujarat,Electronics,Headphones,5,31706,158530,Debit Card,2025-05-29
+1151,82,Vikas Singh,Jaipur,Maharashtra,Home,Chair,4,38370,153480,Debit Card,2025-06-17
+1152,23,Pooja Meena,Bangalore,Maharashtra,Accessories,Watch,3,20798,62394,Cash,2025-06-08
+1153,59,Priya Jain,Bangalore,Karnataka,Fashion,Jacket,1,41340,41340,UPI,2025-01-07
+1154,53,Vikas Singh,Bangalore,Karnataka,Accessories,Bag,3,32935,98805,UPI,2025-05-09
+1155,15,Rahul Sharma,Mumbai,Gujarat,Home,Chair,2,49740,99480,Debit Card,2025-01-02
+1156,79,Sneha Gupta,Delhi,Maharashtra,Home,Chair,5,26557,132785,UPI,2025-04-24
+1157,94,Amit Singh,Delhi,Gujarat,Electronics,Headphones,5,37951,189755,Cash,2025-01-19
+1158,76,Vikas Singh,Ahmedabad,Gujarat,Home,Chair,5,14453,72265,UPI,2025-01-04
+1159,85,Anjali Verma,Jaipur,Karnataka,Home,Mixer,2,9724,19448,Credit Card,2025-03-07
+1160,48,Anjali Verma,Pune,Delhi,Home,Mixer,5,9835,49175,Credit Card,2025-04-19
+1161,81,Priya Jain,Pune,Gujarat,Fashion,Jacket,5,8783,43915,Cash,2025-04-30
+1162,11,Pooja Meena,Mumbai,Karnataka,Fashion,Jacket,3,13443,40329,Cash,2025-06-16
+1163,99,Vikas Singh,Jaipur,Karnataka,Accessories,Sunglasses,5,20368,101840,Debit Card,2025-04-11
+1164,45,Pooja Meena,Jaipur,Karnataka,Fashion,Shoes,2,27738,55476,UPI,2025-01-29
+1165,94,Neha Kapoor,Jaipur,Delhi,Electronics,Laptop,4,34563,138252,UPI,2025-06-10
+1166,34,Anjali Verma,Mumbai,Maharashtra,Electronics,Laptop,3,11111,33333,Credit Card,2025-02-14
+1167,70,Neha Kapoor,Bangalore,Gujarat,Accessories,Sunglasses,1,23906,23906,Debit Card,2025-01-01
+1168,73,Vikas Singh,Mumbai,Maharashtra,Accessories,Watch,4,20573,82292,Credit Card,2025-05-05
+1169,28,Rahul Sharma,Mumbai,Gujarat,Home,Mixer,2,11559,23118,Cash,2025-04-27
+1170,29,Priya Jain,Pune,Delhi,Accessories,Sunglasses,5,43421,217105,Cash,2025-02-10
+1171,61,Amit Singh,Delhi,Maharashtra,Home,Mixer,4,24061,96244,Credit Card,2025-01-30
+1172,66,Karan Mehta,Jaipur,Gujarat,Fashion,Jacket,3,38854,116562,UPI,2025-04-23
+1173,1,Vikas Singh,Pune,Delhi,Accessories,Sunglasses,3,16432,49296,Cash,2025-06-27
+1174,80,Vikas Singh,Jaipur,Maharashtra,Electronics,Headphones,5,15417,77085,Credit Card,2025-02-10
+1175,74,Amit Singh,Mumbai,Delhi,Accessories,Bag,3,2103,6309,Cash,2025-01-10
+1176,73,Rohit Yadav,Delhi,Delhi,Electronics,Smartphone,1,1952,1952,UPI,2025-03-11
+1177,11,Priya Jain,Pune,Rajasthan,Accessories,Bag,2,37827,75654,Credit Card,2025-04-08
+1178,81,Sneha Gupta,Bangalore,Maharashtra,Electronics,Headphones,2,33844,67688,Credit Card,2025-06-02
+1179,67,Rahul Sharma,Jaipur,Gujarat,Accessories,Bag,4,13742,54968,Cash,2025-04-02
+1180,17,Karan Mehta,Mumbai,Rajasthan,Electronics,Laptop,5,26925,134625,Cash,2025-02-24
+1181,17,Rohit Yadav,Delhi,Rajasthan,Accessories,Bag,3,23978,71934,Debit Card,2025-04-04
+1182,9,Pooja Meena,Jaipur,Rajasthan,Accessories,Watch,4,19120,76480,Credit Card,2025-03-18
+1183,44,Karan Mehta,Bangalore,Karnataka,Home,Mixer,2,18965,37930,UPI,2025-04-12
+1184,69,Rohit Yadav,Bangalore,Gujarat,Fashion,T-Shirt,4,41881,167524,Credit Card,2025-04-09
+1185,53,Priya Jain,Bangalore,Rajasthan,Accessories,Bag,4,14097,56388,Credit Card,2025-06-13
+1186,10,Neha Kapoor,Pune,Gujarat,Fashion,T-Shirt,5,41677,208385,Debit Card,2025-04-14
+1187,23,Rohit Yadav,Jaipur,Delhi,Electronics,Laptop,3,24110,72330,Cash,2025-03-31
+1188,85,Vikas Singh,Pune,Delhi,Electronics,Laptop,4,33488,133952,Debit Card,2025-03-19
+1189,76,Neha Kapoor,Bangalore,Gujarat,Electronics,Smartphone,4,22543,90172,Credit Card,2025-01-18
+1190,47,Anjali Verma,Delhi,Gujarat,Home,Chair,2,14047,28094,Credit Card,2025-04-16
+1191,95,Karan Mehta,Mumbai,Gujarat,Fashion,Jacket,5,20129,100645,Debit Card,2025-03-30
+1192,61,Pooja Meena,Jaipur,Karnataka,Electronics,Headphones,3,16260,48780,Credit Card,2025-01-10
+1193,31,Anjali Verma,Bangalore,Gujarat,Electronics,Laptop,3,2366,7098,UPI,2025-02-15
+1194,53,Priya Jain,Ahmedabad,Delhi,Home,Mixer,1,40656,40656,Cash,2025-05-13
+1195,68,Sneha Gupta,Bangalore,Maharashtra,Electronics,Smartphone,4,11393,45572,UPI,2025-03-09
+1196,93,Sneha Gupta,Ahmedabad,Maharashtra,Electronics,Smartphone,5,46927,234635,UPI,2025-04-19
+1197,75,Rohit Yadav,Ahmedabad,Rajasthan,Home,Table,2,17325,34650,UPI,2025-04-11
+1198,91,Rohit Yadav,Ahmedabad,Delhi,Electronics,Headphones,1,9291,9291,Credit Card,2025-01-21
+1199,91,Priya Jain,Pune,Maharashtra,Electronics,Smartphone,2,14350,28700,Cash,2025-03-18
+1200,58,Rohit Yadav,Pune,Karnataka,Electronics,Headphones,2,45454,90908,Cash,2025-02-27
+1201,56,Amit Singh,Delhi,Karnataka,Home,Table,4,13886,55544,Debit Card,2025-05-29
+1202,9,Pooja Meena,Ahmedabad,Rajasthan,Electronics,Headphones,4,16867,67468,Debit Card,2025-05-02
+1203,21,Rohit Yadav,Delhi,Delhi,Accessories,Sunglasses,5,49842,249210,Debit Card,2025-04-01
+1204,85,Amit Singh,Pune,Maharashtra,Electronics,Smartphone,2,2364,4728,UPI,2025-06-23
+1205,60,Vikas Singh,Delhi,Delhi,Electronics,Smartphone,1,20082,20082,Debit Card,2025-04-22
+1206,3,Anjali Verma,Bangalore,Rajasthan,Electronics,Headphones,1,21054,21054,UPI,2025-04-24
+1207,76,Rahul Sharma,Ahmedabad,Karnataka,Home,Chair,5,22557,112785,Credit Card,2025-02-26
+1208,20,Sneha Gupta,Delhi,Maharashtra,Fashion,Shoes,3,43979,131937,Debit Card,2025-02-06
+1209,99,Neha Kapoor,Jaipur,Gujarat,Electronics,Headphones,3,22508,67524,Debit Card,2025-03-03
+1210,3,Pooja Meena,Delhi,Delhi,Accessories,Sunglasses,4,44677,178708,Debit Card,2025-05-10
+1211,43,Neha Kapoor,Delhi,Karnataka,Electronics,Headphones,3,31824,95472,Cash,2025-06-01
+1212,4,Pooja Meena,Ahmedabad,Maharashtra,Fashion,Jacket,5,11181,55905,UPI,2025-01-28
+1213,63,Vikas Singh,Mumbai,Maharashtra,Fashion,Shoes,2,32696,65392,Debit Card,2025-05-26
+1214,79,Neha Kapoor,Ahmedabad,Maharashtra,Electronics,Smartphone,4,712,2848,Cash,2025-06-27
+1215,63,Rohit Yadav,Delhi,Delhi,Accessories,Sunglasses,2,41335,82670,UPI,2025-05-19
+1216,8,Rahul Sharma,Pune,Gujarat,Electronics,Headphones,5,2318,11590,Debit Card,2025-03-01
+1217,13,Amit Singh,Pune,Gujarat,Home,Mixer,1,29781,29781,Credit Card,2025-06-30
+1218,69,Vikas Singh,Jaipur,Maharashtra,Accessories,Watch,3,16481,49443,Debit Card,2025-01-11
+1219,22,Sneha Gupta,Bangalore,Karnataka,Accessories,Sunglasses,3,26831,80493,Credit Card,2025-05-20
+1220,51,Karan Mehta,Pune,Maharashtra,Fashion,T-Shirt,4,12001,48004,Cash,2025-01-13
+1221,12,Rohit Yadav,Pune,Karnataka,Electronics,Headphones,1,20081,20081,UPI,2025-06-15
+1222,97,Anjali Verma,Jaipur,Gujarat,Accessories,Sunglasses,3,38838,116514,UPI,2025-04-28
+1223,40,Sneha Gupta,Mumbai,Rajasthan,Fashion,T-Shirt,1,23240,23240,UPI,2025-03-23
+1224,46,Anjali Verma,Ahmedabad,Maharashtra,Home,Mixer,3,20920,62760,Credit Card,2025-04-19
+1225,18,Pooja Meena,Bangalore,Gujarat,Home,Mixer,5,27721,138605,Debit Card,2025-03-09
+1226,100,Karan Mehta,Bangalore,Rajasthan,Accessories,Bag,3,10463,31389,Debit Card,2025-03-21
+1227,21,Anjali Verma,Bangalore,Gujarat,Electronics,Smartphone,3,9114,27342,Cash,2025-06-27
+1228,89,Pooja Meena,Bangalore,Rajasthan,Fashion,T-Shirt,2,31604,63208,UPI,2025-01-04
+1229,56,Sneha Gupta,Delhi,Rajasthan,Home,Mixer,4,33381,133524,Credit Card,2025-05-20
+1230,44,Anjali Verma,Bangalore,Maharashtra,Accessories,Sunglasses,2,22120,44240,Credit Card,2025-01-30
+1231,100,Priya Jain,Delhi,Karnataka,Fashion,Jacket,3,31575,94725,UPI,2025-03-05
+1232,84,Karan Mehta,Jaipur,Karnataka,Accessories,Bag,2,43500,87000,Cash,2025-02-17
+1233,19,Rahul Sharma,Ahmedabad,Rajasthan,Fashion,Jacket,4,3613,14452,Debit Card,2025-04-09
+1234,37,Rahul Sharma,Pune,Rajasthan,Fashion,Jacket,1,13214,13214,Cash,2025-01-28
+1235,8,Rohit Yadav,Pune,Rajasthan,Electronics,Headphones,4,16837,67348,UPI,2025-01-03
+1236,17,Rohit Yadav,Jaipur,Karnataka,Home,Mixer,1,26686,26686,Cash,2025-02-22
+1237,68,Sneha Gupta,Ahmedabad,Rajasthan,Fashion,Shoes,3,19556,58668,Debit Card,2025-06-15
+1238,26,Sneha Gupta,Mumbai,Rajasthan,Accessories,Watch,5,31082,155410,Credit Card,2025-01-01
+1239,75,Karan Mehta,Bangalore,Karnataka,Home,Chair,5,13196,65980,Cash,2025-05-22
+1240,94,Karan Mehta,Bangalore,Gujarat,Home,Table,1,30307,30307,Cash,2025-03-27
+1241,100,Neha Kapoor,Pune,Gujarat,Accessories,Sunglasses,2,43796,87592,Cash,2025-01-14
+1242,44,Priya Jain,Mumbai,Gujarat,Accessories,Watch,3,46923,140769,Credit Card,2025-02-11
+1243,29,Vikas Singh,Jaipur,Rajasthan,Electronics,Laptop,3,47053,141159,UPI,2025-03-22
+1244,99,Sneha Gupta,Ahmedabad,Rajasthan,Electronics,Laptop,1,7304,7304,Credit Card,2025-01-27
+1245,47,Rahul Sharma,Pune,Gujarat,Home,Table,5,48754,243770,Cash,2025-06-08
+1246,80,Rahul Sharma,Mumbai,Delhi,Accessories,Watch,4,43263,173052,UPI,2025-01-06
+1247,42,Amit Singh,Mumbai,Maharashtra,Accessories,Bag,1,5561,5561,UPI,2025-02-01
+1248,43,Rohit Yadav,Bangalore,Rajasthan,Electronics,Smartphone,5,38982,194910,Credit Card,2025-05-13
+1249,95,Sneha Gupta,Mumbai,Gujarat,Electronics,Smartphone,2,28804,57608,Cash,2025-04-05
+1250,76,Rohit Yadav,Ahmedabad,Delhi,Home,Chair,5,23471,117355,Cash,2025-03-18
+1251,10,Priya Jain,Mumbai,Gujarat,Home,Table,3,32543,97629,Credit Card,2025-06-03
+1252,17,Karan Mehta,Pune,Delhi,Fashion,Jacket,3,17775,53325,Credit Card,2025-06-25
+1253,16,Vikas Singh,Bangalore,Gujarat,Electronics,Headphones,1,31074,31074,Credit Card,2025-02-13
+1254,93,Anjali Verma,Delhi,Rajasthan,Accessories,Bag,1,23085,23085,UPI,2025-03-23
+1255,99,Karan Mehta,Pune,Gujarat,Home,Mixer,1,5615,5615,Credit Card,2025-05-17
+1256,33,Karan Mehta,Pune,Maharashtra,Electronics,Smartphone,1,37943,37943,Debit Card,2025-06-07
+1257,28,Priya Jain,Bangalore,Rajasthan,Home,Table,1,42840,42840,Cash,2025-04-03
+1258,38,Vikas Singh,Pune,Maharashtra,Fashion,Jacket,2,21774,43548,Debit Card,2025-03-14
+1259,61,Priya Jain,Bangalore,Delhi,Accessories,Sunglasses,2,36228,72456,Credit Card,2025-02-12
+1260,62,Sneha Gupta,Jaipur,Gujarat,Home,Table,5,1231,6155,UPI,2025-03-05
+1261,40,Vikas Singh,Ahmedabad,Maharashtra,Home,Table,2,40908,81816,Credit Card,2025-05-22
+1262,6,Rohit Yadav,Mumbai,Delhi,Fashion,T-Shirt,1,5641,5641,Credit Card,2025-04-04
+1263,85,Sneha Gupta,Pune,Delhi,Home,Table,3,39386,118158,Cash,2025-03-06
+1264,6,Priya Jain,Mumbai,Maharashtra,Home,Chair,1,47992,47992,UPI,2025-02-26
+1265,71,Pooja Meena,Pune,Rajasthan,Fashion,Jacket,1,32360,32360,UPI,2025-04-17
+1266,74,Vikas Singh,Mumbai,Karnataka,Accessories,Bag,5,30011,150055,Credit Card,2025-02-18
+1267,92,Pooja Meena,Mumbai,Rajasthan,Accessories,Sunglasses,4,47345,189380,UPI,2025-03-28
+1268,47,Neha Kapoor,Jaipur,Delhi,Home,Chair,3,33107,99321,Credit Card,2025-04-06
+1269,46,Anjali Verma,Delhi,Karnataka,Electronics,Smartphone,4,21062,84248,Debit Card,2025-05-11
+1270,22,Vikas Singh,Mumbai,Delhi,Electronics,Smartphone,5,47511,237555,Cash,2025-03-23
+1271,87,Pooja Meena,Ahmedabad,Delhi,Electronics,Smartphone,4,37823,151292,UPI,2025-06-29
+1272,58,Pooja Meena,Ahmedabad,Rajasthan,Electronics,Laptop,1,2735,2735,UPI,2025-01-22
+1273,38,Anjali Verma,Ahmedabad,Karnataka,Home,Table,5,25554,127770,Debit Card,2025-02-17
+1274,91,Karan Mehta,Pune,Rajasthan,Electronics,Headphones,2,17203,34406,Credit Card,2025-02-07
+1275,17,Priya Jain,Ahmedabad,Karnataka,Accessories,Watch,1,17077,17077,UPI,2025-06-09
+1276,16,Sneha Gupta,Bangalore,Karnataka,Fashion,Jacket,4,32147,128588,Cash,2025-02-21
+1277,97,Neha Kapoor,Mumbai,Karnataka,Home,Mixer,1,21420,21420,UPI,2025-04-08
+1278,24,Vikas Singh,Ahmedabad,Rajasthan,Home,Mixer,1,42905,42905,Debit Card,2025-06-05
+1279,95,Vikas Singh,Ahmedabad,Karnataka,Electronics,Headphones,3,36705,110115,Credit Card,2025-01-11
+1280,85,Karan Mehta,Mumbai,Maharashtra,Electronics,Headphones,2,32293,64586,Credit Card,2025-03-13
+1281,47,Rohit Yadav,Mumbai,Rajasthan,Accessories,Bag,4,15413,61652,UPI,2025-01-04
+1282,23,Rohit Yadav,Bangalore,Gujarat,Electronics,Laptop,3,42677,128031,Credit Card,2025-02-17
+1283,37,Amit Singh,Pune,Delhi,Accessories,Bag,4,9740,38960,Cash,2025-02-24
+1284,42,Rahul Sharma,Jaipur,Rajasthan,Home,Table,5,13732,68660,Credit Card,2025-01-28
+1285,16,Rahul Sharma,Jaipur,Rajasthan,Home,Table,2,19074,38148,UPI,2025-06-28
+1286,1,Amit Singh,Ahmedabad,Karnataka,Electronics,Headphones,2,23630,47260,UPI,2025-02-26
+1287,76,Anjali Verma,Pune,Maharashtra,Home,Chair,2,47411,94822,UPI,2025-03-15
+1288,5,Anjali Verma,Bangalore,Delhi,Home,Mixer,1,6132,6132,UPI,2025-04-28
+1289,52,Rohit Yadav,Ahmedabad,Delhi,Accessories,Bag,2,19801,39602,Debit Card,2025-01-26
+1290,36,Rohit Yadav,Ahmedabad,Karnataka,Home,Table,5,11887,59435,Credit Card,2025-05-12
+1291,65,Neha Kapoor,Mumbai,Rajasthan,Fashion,Shoes,1,11269,11269,Credit Card,2025-04-30
+1292,49,Priya Jain,Bangalore,Gujarat,Fashion,T-Shirt,4,18678,74712,Credit Card,2025-02-25
+1293,28,Sneha Gupta,Pune,Delhi,Fashion,T-Shirt,2,29218,58436,Cash,2025-05-14
+1294,16,Amit Singh,Ahmedabad,Maharashtra,Home,Table,4,43434,173736,Cash,2025-01-05
+1295,15,Amit Singh,Delhi,Delhi,Accessories,Watch,1,35511,35511,UPI,2025-02-16
+1296,92,Rahul Sharma,Bangalore,Gujarat,Home,Mixer,5,49041,245205,Cash,2025-05-05
+1297,94,Rohit Yadav,Mumbai,Karnataka,Accessories,Sunglasses,3,33681,101043,Debit Card,2025-02-03
+1298,39,Pooja Meena,Bangalore,Gujarat,Accessories,Bag,1,43680,43680,Cash,2025-04-19
+1299,13,Pooja Meena,Delhi,Delhi,Electronics,Laptop,5,15665,78325,Credit Card,2025-05-16
+1300,85,Anjali Verma,Mumbai,Gujarat,Home,Mixer,3,36060,108180,Cash,2025-06-24
+1301,20,Priya Jain,Mumbai,Maharashtra,Fashion,Jacket,3,10886,32658,Debit Card,2025-06-01
+1302,27,Amit Singh,Delhi,Delhi,Home,Mixer,1,47153,47153,Cash,2025-03-08
+1303,26,Pooja Meena,Mumbai,Maharashtra,Accessories,Bag,2,46329,92658,Debit Card,2025-03-28
+1304,99,Anjali Verma,Mumbai,Gujarat,Electronics,Laptop,5,8876,44380,Debit Card,2025-06-28
+1305,69,Rohit Yadav,Ahmedabad,Rajasthan,Electronics,Headphones,5,5769,28845,Cash,2025-04-01
+1306,57,Karan Mehta,Bangalore,Karnataka,Fashion,Shoes,2,11027,22054,Cash,2025-04-18
+1307,65,Sneha Gupta,Mumbai,Gujarat,Fashion,Shoes,5,7680,38400,Credit Card,2025-04-07
+1308,58,Neha Kapoor,Mumbai,Karnataka,Electronics,Smartphone,4,8308,33232,Debit Card,2025-03-12
+1309,86,Vikas Singh,Mumbai,Maharashtra,Home,Chair,4,40679,162716,UPI,2025-05-01
+1310,76,Karan Mehta,Delhi,Maharashtra,Home,Table,2,19216,38432,Credit Card,2025-01-18
+1311,2,Sneha Gupta,Bangalore,Rajasthan,Electronics,Laptop,5,12507,62535,Cash,2025-06-10
+1312,71,Sneha Gupta,Mumbai,Rajasthan,Accessories,Bag,2,26783,53566,Debit Card,2025-04-28
+1313,72,Karan Mehta,Mumbai,Maharashtra,Fashion,T-Shirt,4,39236,156944,Credit Card,2025-05-02
+1314,52,Karan Mehta,Delhi,Gujarat,Home,Chair,1,43944,43944,Debit Card,2025-01-06
+1315,38,Rohit Yadav,Pune,Maharashtra,Home,Mixer,5,31510,157550,Cash,2025-04-29
+1316,22,Vikas Singh,Pune,Delhi,Fashion,Shoes,1,17331,17331,Debit Card,2025-03-04
+1317,40,Sneha Gupta,Ahmedabad,Maharashtra,Fashion,Shoes,2,39310,78620,UPI,2025-02-25
+1318,17,Anjali Verma,Ahmedabad,Rajasthan,Accessories,Sunglasses,4,33749,134996,Cash,2025-02-24
+1319,71,Karan Mehta,Pune,Delhi,Home,Chair,3,9456,28368,UPI,2025-06-29
+1320,22,Sneha Gupta,Ahmedabad,Rajasthan,Fashion,T-Shirt,5,46640,233200,Debit Card,2025-01-02
+1321,87,Vikas Singh,Bangalore,Karnataka,Home,Chair,5,1726,8630,Credit Card,2025-06-14
+1322,29,Vikas Singh,Pune,Delhi,Home,Table,3,1314,3942,Credit Card,2025-01-01
+1323,40,Neha Kapoor,Bangalore,Rajasthan,Electronics,Headphones,3,15868,47604,Cash,2025-02-10
+1324,30,Vikas Singh,Bangalore,Karnataka,Electronics,Laptop,1,22836,22836,Credit Card,2025-03-21
+1325,90,Priya Jain,Bangalore,Gujarat,Electronics,Headphones,2,22813,45626,UPI,2025-02-22
+1326,37,Rohit Yadav,Delhi,Maharashtra,Accessories,Watch,3,18594,55782,Credit Card,2025-02-26
+1327,80,Vikas Singh,Bangalore,Rajasthan,Fashion,Jacket,4,12601,50404,UPI,2025-03-15
+1328,41,Neha Kapoor,Jaipur,Maharashtra,Home,Mixer,2,47842,95684,Debit Card,2025-03-02
+1329,79,Karan Mehta,Ahmedabad,Delhi,Home,Chair,2,12063,24126,Credit Card,2025-06-17
+1330,76,Vikas Singh,Pune,Gujarat,Accessories,Sunglasses,5,33190,165950,Credit Card,2025-01-20
+1331,93,Amit Singh,Delhi,Maharashtra,Home,Mixer,5,15064,75320,Credit Card,2025-06-25
+1332,92,Amit Singh,Bangalore,Rajasthan,Electronics,Headphones,2,14106,28212,Debit Card,2025-01-03
+1333,67,Sneha Gupta,Delhi,Delhi,Fashion,Shoes,3,4059,12177,Credit Card,2025-01-19
+1334,60,Rohit Yadav,Ahmedabad,Karnataka,Accessories,Bag,5,48974,244870,Cash,2025-01-04
+1335,1,Rohit Yadav,Bangalore,Delhi,Home,Chair,4,6915,27660,Debit Card,2025-02-09
+1336,4,Neha Kapoor,Pune,Delhi,Home,Mixer,3,17081,51243,Credit Card,2025-05-14
+1337,41,Vikas Singh,Mumbai,Maharashtra,Fashion,T-Shirt,5,11122,55610,Debit Card,2025-06-11
+1338,32,Neha Kapoor,Jaipur,Gujarat,Home,Table,1,2719,2719,Cash,2025-01-10
+1339,68,Amit Singh,Bangalore,Maharashtra,Electronics,Headphones,4,34007,136028,Cash,2025-05-10
+1340,61,Priya Jain,Delhi,Rajasthan,Fashion,T-Shirt,5,6952,34760,Debit Card,2025-03-22
+1341,57,Neha Kapoor,Mumbai,Maharashtra,Home,Mixer,1,11553,11553,Debit Card,2025-01-05
+1342,50,Vikas Singh,Pune,Rajasthan,Electronics,Laptop,2,14479,28958,UPI,2025-06-14
+1343,79,Priya Jain,Pune,Karnataka,Electronics,Laptop,3,17107,51321,Credit Card,2025-01-17
+1344,92,Anjali Verma,Jaipur,Gujarat,Fashion,Jacket,3,30180,90540,UPI,2025-06-20
+1345,9,Anjali Verma,Mumbai,Maharashtra,Fashion,Jacket,2,38263,76526,Credit Card,2025-06-02
+1346,30,Amit Singh,Delhi,Delhi,Fashion,T-Shirt,1,29841,29841,Cash,2025-02-27
+1347,55,Vikas Singh,Mumbai,Gujarat,Fashion,T-Shirt,1,32372,32372,Debit Card,2025-06-21
+1348,70,Priya Jain,Delhi,Gujarat,Home,Chair,4,24927,99708,Debit Card,2025-04-10
+1349,93,Pooja Meena,Jaipur,Rajasthan,Accessories,Bag,5,40250,201250,UPI,2025-02-28
+1350,22,Priya Jain,Mumbai,Rajasthan,Fashion,Shoes,1,14813,14813,Debit Card,2025-03-25
+1351,38,Rahul Sharma,Ahmedabad,Karnataka,Accessories,Watch,5,15916,79580,Cash,2025-03-29
+1352,19,Amit Singh,Delhi,Rajasthan,Accessories,Bag,4,40440,161760,Credit Card,2025-04-13
+1353,4,Pooja Meena,Ahmedabad,Rajasthan,Home,Mixer,1,49430,49430,Debit Card,2025-06-26
+1354,12,Anjali Verma,Jaipur,Rajasthan,Home,Chair,3,14115,42345,Credit Card,2025-03-06
+1355,80,Pooja Meena,Mumbai,Rajasthan,Accessories,Sunglasses,4,11588,46352,UPI,2025-01-26
+1356,33,Rohit Yadav,Bangalore,Rajasthan,Fashion,T-Shirt,3,13409,40227,Cash,2025-01-08
+1357,73,Karan Mehta,Delhi,Gujarat,Accessories,Watch,4,28639,114556,UPI,2025-01-19
+1358,73,Neha Kapoor,Bangalore,Maharashtra,Fashion,Jacket,2,31888,63776,Credit Card,2025-01-08
+1359,52,Rohit Yadav,Bangalore,Karnataka,Home,Chair,4,669,2676,Debit Card,2025-04-08
+1360,66,Karan Mehta,Pune,Karnataka,Accessories,Watch,2,17002,34004,Credit Card,2025-02-24
+1361,41,Vikas Singh,Jaipur,Maharashtra,Fashion,T-Shirt,1,4616,4616,UPI,2025-04-15
+1362,4,Amit Singh,Delhi,Gujarat,Electronics,Smartphone,3,9944,29832,UPI,2025-05-10
+1363,34,Karan Mehta,Mumbai,Delhi,Home,Mixer,5,20931,104655,Credit Card,2025-05-18
+1364,89,Rohit Yadav,Mumbai,Gujarat,Home,Mixer,4,29457,117828,Cash,2025-04-09
+1365,4,Karan Mehta,Mumbai,Gujarat,Home,Mixer,4,39436,157744,Cash,2025-03-13
+1366,72,Karan Mehta,Pune,Gujarat,Electronics,Laptop,2,47012,94024,Cash,2025-02-10
+1367,7,Pooja Meena,Pune,Maharashtra,Accessories,Bag,3,44793,134379,Cash,2025-06-13
+1368,14,Rahul Sharma,Pune,Maharashtra,Fashion,T-Shirt,3,1214,3642,Credit Card,2025-03-21
+1369,4,Vikas Singh,Ahmedabad,Gujarat,Home,Table,1,3243,3243,Cash,2025-02-10
+1370,75,Vikas Singh,Delhi,Gujarat,Home,Mixer,2,38758,77516,UPI,2025-01-24
+1371,94,Karan Mehta,Delhi,Rajasthan,Electronics,Smartphone,2,37269,74538,Debit Card,2025-03-23
+1372,93,Sneha Gupta,Jaipur,Maharashtra,Home,Mixer,5,13440,67200,Cash,2025-06-16
+1373,74,Neha Kapoor,Bangalore,Karnataka,Electronics,Smartphone,1,30345,30345,UPI,2025-03-30
+1374,59,Amit Singh,Mumbai,Maharashtra,Accessories,Sunglasses,5,30556,152780,Credit Card,2025-05-06
+1375,84,Sneha Gupta,Pune,Delhi,Fashion,Shoes,3,43752,131256,Cash,2025-01-28
+1376,73,Karan Mehta,Delhi,Delhi,Home,Mixer,1,46094,46094,Cash,2025-05-18
+1377,20,Priya Jain,Delhi,Rajasthan,Accessories,Watch,1,35348,35348,Debit Card,2025-05-21
+1378,2,Rohit Yadav,Mumbai,Gujarat,Electronics,Headphones,3,1077,3231,Cash,2025-06-10
+1379,33,Karan Mehta,Pune,Delhi,Fashion,T-Shirt,1,31313,31313,Debit Card,2025-04-23
+1380,71,Sneha Gupta,Ahmedabad,Delhi,Electronics,Smartphone,5,22934,114670,Cash,2025-01-09
+1381,7,Neha Kapoor,Delhi,Gujarat,Electronics,Laptop,5,14257,71285,Debit Card,2025-02-26
+1382,19,Anjali Verma,Jaipur,Maharashtra,Accessories,Sunglasses,4,39678,158712,Cash,2025-03-30
+1383,75,Priya Jain,Ahmedabad,Karnataka,Accessories,Sunglasses,1,38443,38443,UPI,2025-05-30
+1384,38,Priya Jain,Bangalore,Gujarat,Accessories,Sunglasses,1,24691,24691,Debit Card,2025-06-29
+1385,10,Karan Mehta,Pune,Karnataka,Accessories,Sunglasses,5,45095,225475,Credit Card,2025-01-18
+1386,84,Neha Kapoor,Ahmedabad,Maharashtra,Electronics,Headphones,5,2402,12010,Debit Card,2025-02-15
+1387,68,Karan Mehta,Bangalore,Rajasthan,Electronics,Smartphone,4,48579,194316,Debit Card,2025-04-08
+1388,91,Amit Singh,Mumbai,Delhi,Electronics,Laptop,5,39888,199440,Debit Card,2025-03-19
+1389,24,Anjali Verma,Mumbai,Rajasthan,Home,Table,3,1614,4842,Debit Card,2025-02-17
+1390,79,Vikas Singh,Delhi,Gujarat,Accessories,Sunglasses,5,37820,189100,Cash,2025-06-02
+1391,92,Amit Singh,Delhi,Rajasthan,Home,Chair,4,38838,155352,Credit Card,2025-02-03
+1392,82,Karan Mehta,Bangalore,Maharashtra,Accessories,Sunglasses,5,32708,163540,Debit Card,2025-01-13
+1393,39,Amit Singh,Mumbai,Gujarat,Fashion,Shoes,5,21331,106655,Credit Card,2025-01-01
+1394,100,Amit Singh,Delhi,Delhi,Electronics,Smartphone,4,47316,189264,UPI,2025-01-14
+1395,29,Amit Singh,Mumbai,Gujarat,Accessories,Watch,3,18032,54096,Credit Card,2025-05-18
+1396,32,Rohit Yadav,Ahmedabad,Rajasthan,Electronics,Headphones,3,26912,80736,Debit Card,2025-04-03
+1397,41,Anjali Verma,Ahmedabad,Maharashtra,Fashion,T-Shirt,2,46008,92016,Cash,2025-01-30
+1398,7,Amit Singh,Bangalore,Karnataka,Accessories,Watch,5,49717,248585,Debit Card,2025-05-13
+1399,11,Pooja Meena,Jaipur,Rajasthan,Fashion,Shoes,5,30881,154405,Credit Card,2025-06-11
+1400,83,Neha Kapoor,Jaipur,Rajasthan,Electronics,Laptop,5,15571,77855,Credit Card,2025-05-08
+1401,60,Pooja Meena,Pune,Gujarat,Fashion,Jacket,2,41965,83930,Debit Card,2025-06-19
+1402,88,Priya Jain,Delhi,Maharashtra,Home,Table,5,49224,246120,Credit Card,2025-05-27
+1403,22,Amit Singh,Mumbai,Maharashtra,Accessories,Bag,2,4361,8722,Debit Card,2025-06-17
+1404,98,Amit Singh,Bangalore,Gujarat,Accessories,Watch,2,26340,52680,Debit Card,2025-03-23
+1405,3,Amit Singh,Pune,Maharashtra,Fashion,Shoes,1,6001,6001,Debit Card,2025-06-04
+1406,84,Amit Singh,Bangalore,Karnataka,Electronics,Headphones,3,5760,17280,Debit Card,2025-02-13
+1407,20,Rohit Yadav,Bangalore,Rajasthan,Electronics,Headphones,4,39125,156500,Cash,2025-06-12
+1408,59,Neha Kapoor,Delhi,Delhi,Electronics,Headphones,5,13835,69175,UPI,2025-06-23
+1409,1,Rohit Yadav,Bangalore,Delhi,Electronics,Smartphone,1,29352,29352,Credit Card,2025-03-06
+1410,95,Rahul Sharma,Mumbai,Maharashtra,Accessories,Bag,3,20404,61212,UPI,2025-04-06
+1411,30,Rohit Yadav,Jaipur,Karnataka,Home,Table,4,41667,166668,UPI,2025-06-22
+1412,88,Priya Jain,Pune,Karnataka,Home,Chair,1,20553,20553,Credit Card,2025-05-11
+1413,36,Vikas Singh,Bangalore,Maharashtra,Home,Mixer,2,14571,29142,Credit Card,2025-05-07
+1414,60,Anjali Verma,Jaipur,Karnataka,Fashion,Shoes,1,35295,35295,Cash,2025-04-06
+1415,14,Anjali Verma,Mumbai,Rajasthan,Fashion,Jacket,5,43063,215315,Debit Card,2025-05-24
+1416,29,Sneha Gupta,Ahmedabad,Delhi,Electronics,Smartphone,4,27022,108088,Debit Card,2025-03-06
+1417,64,Pooja Meena,Pune,Maharashtra,Fashion,Jacket,2,43388,86776,Cash,2025-03-14
+1418,45,Rohit Yadav,Mumbai,Gujarat,Electronics,Smartphone,3,30296,90888,Debit Card,2025-05-14
+1419,93,Priya Jain,Ahmedabad,Karnataka,Fashion,Jacket,5,43994,219970,UPI,2025-02-02
+1420,27,Pooja Meena,Mumbai,Delhi,Electronics,Laptop,2,26220,52440,Cash,2025-06-01
+1421,19,Rohit Yadav,Mumbai,Delhi,Home,Chair,5,42659,213295,Credit Card,2025-03-18
+1422,89,Rohit Yadav,Mumbai,Karnataka,Fashion,Jacket,5,39098,195490,Cash,2025-01-29
+1423,4,Amit Singh,Ahmedabad,Karnataka,Home,Table,1,41283,41283,UPI,2025-06-16
+1424,11,Anjali Verma,Mumbai,Rajasthan,Home,Mixer,1,2492,2492,Debit Card,2025-02-12
+1425,19,Amit Singh,Delhi,Delhi,Accessories,Sunglasses,2,16115,32230,Debit Card,2025-06-12
+1426,4,Anjali Verma,Delhi,Rajasthan,Electronics,Laptop,5,43743,218715,Cash,2025-05-30
+1427,85,Karan Mehta,Mumbai,Gujarat,Home,Table,3,39106,117318,Cash,2025-06-16
+1428,53,Amit Singh,Pune,Maharashtra,Home,Mixer,4,16787,67148,Cash,2025-03-29
+1429,74,Anjali Verma,Delhi,Gujarat,Home,Table,5,25295,126475,Debit Card,2025-02-25
+1430,16,Karan Mehta,Ahmedabad,Gujarat,Electronics,Headphones,4,16101,64404,Debit Card,2025-03-24
+1431,95,Anjali Verma,Pune,Karnataka,Fashion,Shoes,4,4900,19600,UPI,2025-03-26
+1432,50,Priya Jain,Delhi,Gujarat,Fashion,Jacket,1,10228,10228,Credit Card,2025-04-28
+1433,91,Amit Singh,Bangalore,Rajasthan,Electronics,Laptop,3,33944,101832,Credit Card,2025-05-16
+1434,73,Rohit Yadav,Mumbai,Karnataka,Electronics,Laptop,3,25540,76620,Debit Card,2025-05-11
+1435,93,Rahul Sharma,Pune,Rajasthan,Home,Table,2,45994,91988,Credit Card,2025-05-03
+1436,96,Karan Mehta,Delhi,Delhi,Electronics,Smartphone,4,14475,57900,Credit Card,2025-04-17
+1437,20,Vikas Singh,Pune,Gujarat,Fashion,Shoes,5,22201,111005,UPI,2025-02-19
+1438,49,Priya Jain,Pune,Rajasthan,Electronics,Smartphone,1,46536,46536,Cash,2025-06-25
+1439,87,Karan Mehta,Mumbai,Rajasthan,Fashion,Shoes,4,25170,100680,Credit Card,2025-01-22
+1440,96,Anjali Verma,Mumbai,Delhi,Home,Table,3,31382,94146,Debit Card,2025-05-07
+1441,17,Sneha Gupta,Mumbai,Maharashtra,Accessories,Bag,2,6864,13728,UPI,2025-02-01
+1442,74,Priya Jain,Ahmedabad,Rajasthan,Electronics,Smartphone,2,48874,97748,Debit Card,2025-04-23
+1443,97,Vikas Singh,Jaipur,Maharashtra,Accessories,Watch,5,41861,209305,UPI,2025-02-23
+1444,93,Anjali Verma,Bangalore,Maharashtra,Electronics,Laptop,5,33212,166060,Cash,2025-01-25
+1445,7,Vikas Singh,Ahmedabad,Delhi,Accessories,Watch,4,47794,191176,Credit Card,2025-04-17
+1446,1,Sneha Gupta,Jaipur,Rajasthan,Fashion,T-Shirt,4,49291,197164,UPI,2025-06-22
+1447,3,Karan Mehta,Delhi,Maharashtra,Electronics,Laptop,5,21280,106400,UPI,2025-06-28
+1448,42,Amit Singh,Mumbai,Rajasthan,Fashion,Jacket,3,22130,66390,Cash,2025-06-12
+1449,32,Vikas Singh,Mumbai,Maharashtra,Electronics,Laptop,4,29444,117776,Debit Card,2025-03-09
+1450,61,Anjali Verma,Delhi,Karnataka,Electronics,Laptop,1,28428,28428,Cash,2025-04-12
+1451,77,Rohit Yadav,Ahmedabad,Rajasthan,Home,Mixer,1,6584,6584,Credit Card,2025-04-29
+1452,42,Sneha Gupta,Jaipur,Delhi,Electronics,Headphones,3,42582,127746,Credit Card,2025-01-25
+1453,22,Priya Jain,Mumbai,Karnataka,Fashion,Shoes,5,16884,84420,Cash,2025-02-18
+1454,63,Rohit Yadav,Ahmedabad,Rajasthan,Accessories,Watch,4,8816,35264,Debit Card,2025-01-26
+1455,11,Anjali Verma,Mumbai,Maharashtra,Fashion,T-Shirt,5,28852,144260,Debit Card,2025-03-15
+1456,2,Sneha Gupta,Ahmedabad,Karnataka,Home,Chair,2,39578,79156,UPI,2025-06-18
+1457,10,Rohit Yadav,Jaipur,Maharashtra,Fashion,T-Shirt,3,22212,66636,Debit Card,2025-04-08
+1458,37,Neha Kapoor,Delhi,Delhi,Home,Mixer,4,47461,189844,Cash,2025-02-22
+1459,1,Pooja Meena,Delhi,Delhi,Home,Mixer,4,33961,135844,Credit Card,2025-02-03
+1460,71,Sneha Gupta,Jaipur,Rajasthan,Home,Table,5,26166,130830,Credit Card,2025-03-29
+1461,28,Priya Jain,Mumbai,Gujarat,Electronics,Headphones,3,4351,13053,UPI,2025-02-24
+1462,69,Rohit Yadav,Ahmedabad,Karnataka,Fashion,Shoes,1,4195,4195,Credit Card,2025-03-21
+1463,72,Pooja Meena,Delhi,Gujarat,Accessories,Watch,5,21055,105275,UPI,2025-02-26
+1464,1,Sneha Gupta,Bangalore,Delhi,Electronics,Headphones,3,5670,17010,UPI,2025-01-06
+1465,61,Anjali Verma,Bangalore,Gujarat,Accessories,Sunglasses,3,38437,115311,Cash,2025-05-12
+1466,31,Karan Mehta,Pune,Maharashtra,Fashion,Jacket,4,22960,91840,Credit Card,2025-01-04
+1467,75,Neha Kapoor,Delhi,Delhi,Accessories,Bag,5,44225,221125,Debit Card,2025-03-20
+1468,97,Karan Mehta,Mumbai,Gujarat,Electronics,Laptop,3,46013,138039,UPI,2025-01-26
+1469,14,Pooja Meena,Pune,Gujarat,Electronics,Laptop,4,13158,52632,UPI,2025-01-25
+1470,68,Rohit Yadav,Ahmedabad,Karnataka,Home,Chair,4,24696,98784,Credit Card,2025-05-06
+1471,58,Sneha Gupta,Pune,Delhi,Fashion,T-Shirt,4,11992,47968,Credit Card,2025-06-30
+1472,67,Amit Singh,Ahmedabad,Rajasthan,Accessories,Watch,4,19563,78252,Debit Card,2025-02-26
+1473,46,Karan Mehta,Bangalore,Karnataka,Accessories,Bag,3,24076,72228,UPI,2025-03-18
+1474,23,Anjali Verma,Bangalore,Rajasthan,Accessories,Bag,5,13858,69290,Debit Card,2025-01-01
+1475,30,Vikas Singh,Mumbai,Karnataka,Accessories,Sunglasses,3,44784,134352,Cash,2025-06-30
+1476,21,Sneha Gupta,Mumbai,Gujarat,Electronics,Headphones,4,41092,164368,Credit Card,2025-03-19
+1477,65,Pooja Meena,Jaipur,Delhi,Fashion,Shoes,3,1755,5265,Cash,2025-06-14
+1478,98,Sneha Gupta,Jaipur,Gujarat,Home,Table,1,1359,1359,Credit Card,2025-04-27
+1479,85,Anjali Verma,Jaipur,Delhi,Home,Mixer,5,41940,209700,UPI,2025-01-19
+1480,87,Rahul Sharma,Ahmedabad,Delhi,Home,Table,4,25822,103288,Cash,2025-04-12
+1481,92,Rohit Yadav,Bangalore,Karnataka,Fashion,Shoes,1,48562,48562,Debit Card,2025-05-19
+1482,5,Amit Singh,Mumbai,Delhi,Electronics,Headphones,2,44656,89312,UPI,2025-04-28
+1483,5,Sneha Gupta,Jaipur,Maharashtra,Home,Chair,2,5900,11800,Credit Card,2025-04-28
+1484,11,Neha Kapoor,Ahmedabad,Delhi,Electronics,Smartphone,5,4679,23395,Cash,2025-02-07
+1485,33,Amit Singh,Ahmedabad,Gujarat,Fashion,T-Shirt,3,5267,15801,Credit Card,2025-05-04
+1486,5,Pooja Meena,Ahmedabad,Gujarat,Fashion,Jacket,4,29694,118776,Debit Card,2025-01-04
+1487,78,Rahul Sharma,Delhi,Gujarat,Electronics,Laptop,2,5206,10412,Credit Card,2025-05-31
+1488,26,Priya Jain,Pune,Gujarat,Electronics,Headphones,3,44066,132198,UPI,2025-03-31
+1489,25,Rahul Sharma,Jaipur,Gujarat,Accessories,Sunglasses,5,10954,54770,UPI,2025-03-09
+1490,89,Sneha Gupta,Delhi,Maharashtra,Fashion,Jacket,2,39750,79500,UPI,2025-05-14
+1491,35,Rohit Yadav,Mumbai,Rajasthan,Fashion,Jacket,4,38851,155404,UPI,2025-04-03
+1492,82,Neha Kapoor,Mumbai,Rajasthan,Fashion,T-Shirt,4,4616,18464,Credit Card,2025-01-03
+1493,60,Anjali Verma,Delhi,Rajasthan,Fashion,Shoes,3,44569,133707,UPI,2025-02-18
+1494,47,Vikas Singh,Jaipur,Karnataka,Accessories,Watch,2,3835,7670,UPI,2025-06-29
+1495,54,Sneha Gupta,Ahmedabad,Maharashtra,Fashion,Jacket,5,17359,86795,UPI,2025-05-09
+1496,53,Sneha Gupta,Bangalore,Rajasthan,Electronics,Laptop,5,24223,121115,Debit Card,2025-03-29
+1497,48,Sneha Gupta,Delhi,Rajasthan,Accessories,Bag,1,39107,39107,Credit Card,2025-05-12
+1498,14,Pooja Meena,Bangalore,Delhi,Fashion,Jacket,3,42617,127851,UPI,2025-01-27
+1499,37,Anjali Verma,Delhi,Rajasthan,Fashion,T-Shirt,4,4826,19304,Credit Card,2025-04-30
+1500,91,Priya Jain,Delhi,Rajasthan,Home,Table,3,2719,8157,Cash,2025-05-24
+1501,97,Priya Jain,Pune,Delhi,Accessories,Watch,3,45051,135153,Credit Card,2025-05-05
+1502,60,Vikas Singh,Ahmedabad,Maharashtra,Accessories,Watch,3,4565,13695,Cash,2025-02-21
+1503,12,Rohit Yadav,Ahmedabad,Maharashtra,Fashion,Jacket,5,41060,205300,Debit Card,2025-05-22
+1504,51,Pooja Meena,Jaipur,Delhi,Electronics,Headphones,2,23277,46554,Debit Card,2025-01-03
+1505,64,Karan Mehta,Delhi,Karnataka,Accessories,Sunglasses,5,39902,199510,UPI,2025-06-30
+1506,32,Rohit Yadav,Pune,Gujarat,Fashion,Shoes,4,6284,25136,Debit Card,2025-05-24
+1507,62,Pooja Meena,Bangalore,Karnataka,Home,Chair,3,30269,90807,Cash,2025-06-16
+1508,42,Rohit Yadav,Delhi,Maharashtra,Home,Chair,3,6453,19359,UPI,2025-01-13
+1509,45,Rohit Yadav,Ahmedabad,Maharashtra,Electronics,Headphones,3,1950,5850,UPI,2025-05-07
+1510,62,Amit Singh,Pune,Karnataka,Accessories,Bag,5,45512,227560,Debit Card,2025-01-01
+1511,91,Rohit Yadav,Bangalore,Gujarat,Electronics,Headphones,4,48689,194756,Credit Card,2025-03-14
+1512,59,Pooja Meena,Delhi,Delhi,Fashion,T-Shirt,5,31702,158510,Credit Card,2025-06-07
+1513,79,Karan Mehta,Bangalore,Delhi,Electronics,Headphones,3,26632,79896,Credit Card,2025-03-04
+1514,11,Rohit Yadav,Mumbai,Delhi,Accessories,Bag,1,48322,48322,Cash,2025-01-14
+1515,85,Karan Mehta,Jaipur,Delhi,Electronics,Laptop,1,13166,13166,Cash,2025-02-03
+1516,64,Rohit Yadav,Mumbai,Gujarat,Home,Chair,5,8760,43800,Credit Card,2025-01-03
+1517,29,Anjali Verma,Jaipur,Delhi,Home,Table,3,45341,136023,Credit Card,2025-04-13
+1518,36,Vikas Singh,Pune,Rajasthan,Electronics,Headphones,1,10363,10363,Credit Card,2025-03-13
+1519,22,Vikas Singh,Jaipur,Maharashtra,Electronics,Headphones,4,27197,108788,Credit Card,2025-05-23
+1520,54,Vikas Singh,Bangalore,Rajasthan,Fashion,Shoes,3,10536,31608,Credit Card,2025-05-16
+1521,54,Rahul Sharma,Jaipur,Maharashtra,Accessories,Bag,3,23664,70992,Credit Card,2025-05-30
+1522,35,Anjali Verma,Ahmedabad,Gujarat,Fashion,Jacket,1,46470,46470,UPI,2025-06-21
+1523,92,Sneha Gupta,Jaipur,Rajasthan,Fashion,T-Shirt,2,6580,13160,Cash,2025-04-20
+1524,33,Amit Singh,Bangalore,Rajasthan,Fashion,Jacket,4,29830,119320,Credit Card,2025-05-02
+1525,92,Anjali Verma,Pune,Karnataka,Fashion,Jacket,5,17868,89340,Debit Card,2025-03-12
+1526,33,Rahul Sharma,Pune,Rajasthan,Accessories,Watch,4,8718,34872,UPI,2025-03-24
+1527,99,Vikas Singh,Jaipur,Rajasthan,Electronics,Laptop,1,30566,30566,UPI,2025-04-09
+1528,24,Pooja Meena,Delhi,Maharashtra,Electronics,Smartphone,5,21989,109945,Debit Card,2025-04-18
+1529,40,Sneha Gupta,Mumbai,Karnataka,Accessories,Watch,1,11376,11376,UPI,2025-05-17
+1530,1,Rahul Sharma,Delhi,Rajasthan,Accessories,Sunglasses,5,28596,142980,Cash,2025-06-12
+1531,2,Amit Singh,Jaipur,Karnataka,Electronics,Laptop,5,35729,178645,Cash,2025-03-06
+1532,24,Amit Singh,Ahmedabad,Maharashtra,Fashion,Shoes,2,14963,29926,Cash,2025-04-16
+1533,28,Amit Singh,Pune,Karnataka,Home,Mixer,4,42117,168468,Cash,2025-04-04
+1534,55,Priya Jain,Mumbai,Karnataka,Electronics,Headphones,1,36968,36968,Credit Card,2025-06-11
+1535,87,Rohit Yadav,Delhi,Karnataka,Accessories,Watch,2,42790,85580,Credit Card,2025-01-14
+1536,67,Priya Jain,Bangalore,Karnataka,Accessories,Sunglasses,2,18037,36074,UPI,2025-03-02
+1537,35,Priya Jain,Pune,Gujarat,Accessories,Sunglasses,5,6420,32100,Debit Card,2025-06-11
+1538,58,Rohit Yadav,Ahmedabad,Karnataka,Accessories,Bag,4,43445,173780,Cash,2025-01-09
+1539,72,Rohit Yadav,Delhi,Gujarat,Fashion,Shoes,5,38805,194025,Debit Card,2025-04-28
+1540,39,Amit Singh,Bangalore,Karnataka,Electronics,Laptop,2,27288,54576,Debit Card,2025-02-17
+1541,93,Priya Jain,Pune,Karnataka,Accessories,Bag,4,47139,188556,Cash,2025-05-13
+1542,69,Amit Singh,Jaipur,Karnataka,Electronics,Smartphone,1,31531,31531,UPI,2025-05-18
+1543,20,Neha Kapoor,Delhi,Karnataka,Home,Mixer,3,46110,138330,Credit Card,2025-03-16
+1544,28,Pooja Meena,Delhi,Karnataka,Home,Mixer,2,40402,80804,Cash,2025-03-22
+1545,11,Rahul Sharma,Jaipur,Karnataka,Accessories,Bag,2,12356,24712,UPI,2025-04-26
+1546,84,Sneha Gupta,Delhi,Gujarat,Fashion,Jacket,5,24515,122575,Cash,2025-06-15
+1547,9,Vikas Singh,Bangalore,Gujarat,Accessories,Bag,2,40203,80406,Credit Card,2025-06-11
+1548,89,Karan Mehta,Pune,Karnataka,Home,Mixer,4,16589,66356,Cash,2025-02-16
+1549,98,Pooja Meena,Mumbai,Rajasthan,Fashion,T-Shirt,1,13518,13518,Credit Card,2025-03-12
+1550,96,Vikas Singh,Mumbai,Gujarat,Fashion,Jacket,4,7784,31136,Cash,2025-02-10
+1551,40,Sneha Gupta,Pune,Maharashtra,Home,Mixer,5,42464,212320,Credit Card,2025-04-22
+1552,99,Vikas Singh,Ahmedabad,Karnataka,Accessories,Bag,4,45884,183536,UPI,2025-02-21
+1553,48,Karan Mehta,Pune,Delhi,Home,Mixer,4,33210,132840,Credit Card,2025-06-28
+1554,96,Pooja Meena,Mumbai,Gujarat,Accessories,Sunglasses,2,28993,57986,UPI,2025-02-23
+1555,32,Anjali Verma,Mumbai,Rajasthan,Accessories,Bag,4,8005,32020,UPI,2025-06-22
+1556,74,Priya Jain,Bangalore,Gujarat,Electronics,Smartphone,5,8605,43025,Cash,2025-06-04
+1557,49,Anjali Verma,Ahmedabad,Karnataka,Home,Chair,4,28679,114716,Debit Card,2025-06-10
+1558,68,Anjali Verma,Delhi,Delhi,Accessories,Bag,5,46632,233160,UPI,2025-05-10
+1559,91,Priya Jain,Bangalore,Delhi,Accessories,Bag,5,38811,194055,UPI,2025-02-27
+1560,87,Sneha Gupta,Bangalore,Delhi,Fashion,T-Shirt,1,20426,20426,Debit Card,2025-04-17
+1561,46,Pooja Meena,Bangalore,Gujarat,Accessories,Sunglasses,4,35508,142032,UPI,2025-04-01
+1562,82,Vikas Singh,Bangalore,Karnataka,Electronics,Laptop,5,6947,34735,Debit Card,2025-04-08
+1563,98,Rahul Sharma,Delhi,Delhi,Fashion,Jacket,2,10007,20014,Debit Card,2025-05-15
+1564,99,Neha Kapoor,Ahmedabad,Delhi,Electronics,Headphones,3,4121,12363,Cash,2025-02-15
+1565,83,Rohit Yadav,Bangalore,Delhi,Accessories,Bag,1,15359,15359,UPI,2025-01-28
+1566,88,Neha Kapoor,Mumbai,Rajasthan,Accessories,Watch,4,24831,99324,Debit Card,2025-05-02
+1567,38,Rohit Yadav,Jaipur,Karnataka,Home,Table,1,45050,45050,Credit Card,2025-01-25
+1568,82,Rahul Sharma,Pune,Delhi,Electronics,Smartphone,2,15803,31606,Credit Card,2025-03-07
+1569,79,Neha Kapoor,Jaipur,Karnataka,Fashion,Jacket,4,39059,156236,Credit Card,2025-01-26
+1570,88,Pooja Meena,Mumbai,Maharashtra,Home,Mixer,2,27008,54016,UPI,2025-05-17
+1571,56,Rohit Yadav,Pune,Rajasthan,Accessories,Sunglasses,5,38428,192140,Cash,2025-01-07
+1572,88,Sneha Gupta,Pune,Rajasthan,Home,Mixer,5,21357,106785,UPI,2025-01-11
+1573,54,Vikas Singh,Jaipur,Gujarat,Electronics,Headphones,2,13536,27072,UPI,2025-01-30
+1574,4,Neha Kapoor,Jaipur,Delhi,Home,Mixer,2,35562,71124,Debit Card,2025-01-31
+1575,6,Neha Kapoor,Bangalore,Gujarat,Home,Table,5,15775,78875,UPI,2025-01-01
+1576,88,Karan Mehta,Jaipur,Karnataka,Electronics,Headphones,4,37429,149716,Credit Card,2025-01-05
+1577,15,Rahul Sharma,Pune,Karnataka,Electronics,Smartphone,4,42085,168340,Credit Card,2025-04-29
+1578,32,Anjali Verma,Mumbai,Delhi,Electronics,Headphones,5,3246,16230,UPI,2025-01-17
+1579,56,Rahul Sharma,Ahmedabad,Karnataka,Fashion,T-Shirt,5,28993,144965,Credit Card,2025-04-15
+1580,60,Priya Jain,Pune,Gujarat,Home,Table,1,1820,1820,Credit Card,2025-03-30
+1581,55,Priya Jain,Jaipur,Rajasthan,Fashion,Jacket,5,22148,110740,Credit Card,2025-05-24
+1582,68,Amit Singh,Jaipur,Gujarat,Fashion,Shoes,4,13329,53316,UPI,2025-01-15
+1583,67,Anjali Verma,Jaipur,Rajasthan,Electronics,Smartphone,1,11162,11162,UPI,2025-02-27
+1584,5,Amit Singh,Pune,Maharashtra,Home,Chair,1,14340,14340,Credit Card,2025-02-20
+1585,79,Amit Singh,Mumbai,Karnataka,Home,Table,4,37055,148220,Debit Card,2025-04-30
+1586,70,Amit Singh,Ahmedabad,Gujarat,Electronics,Headphones,3,12385,37155,Cash,2025-01-15
+1587,27,Priya Jain,Jaipur,Delhi,Electronics,Headphones,1,8143,8143,UPI,2025-04-17
+1588,98,Pooja Meena,Ahmedabad,Rajasthan,Electronics,Laptop,2,25993,51986,Credit Card,2025-02-23
+1589,54,Vikas Singh,Pune,Maharashtra,Fashion,T-Shirt,2,36932,73864,Debit Card,2025-01-10
+1590,59,Amit Singh,Pune,Gujarat,Accessories,Sunglasses,4,39538,158152,UPI,2025-05-21
+1591,58,Pooja Meena,Bangalore,Rajasthan,Home,Table,3,24737,74211,Cash,2025-06-23
+1592,36,Anjali Verma,Jaipur,Gujarat,Electronics,Headphones,3,30185,90555,Credit Card,2025-03-21
+1593,52,Amit Singh,Delhi,Gujarat,Fashion,Jacket,4,36449,145796,UPI,2025-05-12
+1594,73,Karan Mehta,Bangalore,Karnataka,Fashion,Shoes,1,12733,12733,UPI,2025-04-18
+1595,23,Vikas Singh,Delhi,Maharashtra,Fashion,T-Shirt,5,25483,127415,Cash,2025-03-13
+1596,52,Karan Mehta,Jaipur,Rajasthan,Accessories,Sunglasses,4,8901,35604,Debit Card,2025-01-25
+1597,54,Karan Mehta,Pune,Rajasthan,Home,Mixer,2,10515,21030,Debit Card,2025-01-23
+1598,60,Priya Jain,Mumbai,Gujarat,Home,Table,2,45927,91854,Cash,2025-01-09
+1599,16,Vikas Singh,Mumbai,Gujarat,Accessories,Bag,3,36460,109380,Credit Card,2025-03-22
+1600,8,Karan Mehta,Jaipur,Rajasthan,Accessories,Sunglasses,3,25777,77331,UPI,2025-01-22
